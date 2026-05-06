@@ -1,5 +1,5 @@
 <h1 align="center">Assalamualaikum 👋, I'm Raihan Habib Akash</h1>
-<h3 align="center">🚀 C++ Problem Solver | MERN Stack Developer</h3>
+<h3 align="center">🚀 C++ Problem Solver & MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raihanhabibakash&label=Profile%20views&color=0e75b6&style=flat" />
@@ -19,7 +19,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/raihan-akash-136a74310"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://stackoverflow.com/users/30118933/raihan-akash"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
-<a href="https://fb.com/raihan.habib.akash"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+<a href="https://fb.com/raihan.habib.akash"><img src="[https://skillicons.dev/icons?i=facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)" /></a>
 <a href="https://instagram.com/raihan_habib_akash"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
