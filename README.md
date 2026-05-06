@@ -1,4 +1,4 @@
-<h1 align="center">Assalamualaikum 👋, I'm Raihan Habib Akash</h1>
+<h1 align="center">Assalamualaikum, I'm Raihan Habib Akash</h1>
 <h4 align="center">C++ Problem Solver | MERN Stack Developer</h4>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 Worked on **Spotify Clone**
-- 🌱 Learning **Problem Solving & Django**
+- 🌱 Learning **Problem Solving, MERN & Django **
 - 💬 Ask me about **Web Development & Logic Building**
 - 📫 Email: **raihanakash2003811@gmail.com**
 
