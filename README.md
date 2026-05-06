@@ -50,7 +50,7 @@
 
 #### 🛠 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase,clerk,cloudinary" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase" />
 </p>
 
 #### 🗄 Database
