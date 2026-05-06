@@ -46,6 +46,9 @@
 #### 🌐 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,sass,bootstrap" />
+  &nbsp;&nbsp;
+  <img src="./reacRouter.png" height="40"/>
+  <img src="./zustand.jpg" height="40"/>
 </p>
 
 #### 🛠 Backend
