@@ -21,7 +21,7 @@
 <a href="https://stackoverflow.com/users/30118933/raihan-akash"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
 <a href="https://fb.com/raihan.habib.akash"><img src="https://img.icons8.com/color/48/facebook-new.png" height="48"/></a>
 <a href="https://instagram.com/raihan_habib_akash"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://auth.geeksforgeeks.org/user/your_username"><img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="48"/></a>
+<a href="https://auth.geeksforgeeks.org/user/raihanakastfzg"><img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="48"/></a>
 </p>
 
 ---
