@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Spotify Clone**
+- 🔭 Worked on **Spotify Clone**
 - 🌱 Learning **Problem Solving & Django**
 - 💬 Ask me about **Web Development & Logic Building**
 - 📫 Email: **raihanakash2003811@gmail.com**
@@ -31,6 +31,7 @@
 <a href="https://codeforces.com/profile/raihanakash"><img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces" /></a>
 <a href="https://www.leetcode.com/raihanhabibakash"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" /></a>
 <a href="https://www.codechef.com/users/raihan_akash"><img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef" /></a>
+<a href="https://www.hackerrank.com/profile/raihanakash20031"><img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank" /></a>
 </p>
 
 ---
@@ -49,7 +50,7 @@
 
 #### 🛠 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase,clerk,cloudinary" />
 </p>
 
 #### 🗄 Database
