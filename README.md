@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F726&center=true&vCenter=true&width=435&lines=MERN+Dev;Django+Dev;Backend+Developer;Fullstack+Developer;Competitive+Programmer;Problem+Solver;DSA+Enthusiast;OOP+Enthusiast;React+%7C%7C+Next+%7C%7C+Express+%7C%7C+Django;Always+Learning;Frontend+Developer;New+Things+Learning" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F726&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Django+Backend+Developer;Full+Stack+Web+Developer;Competitive+Programmer;Problem+Solver+%7C+DSA+Enthusiast;OOP+%26+Software+Design+Enthusiast;React+%7C+Next.js+%7C+Express+%7C+Django;Building+Scalable+Web+Applications;Passionate+About+Clean+Code;Always+Learning+New+Technologies" 
       alt="Typing SVG" 
     />
   </a>
