@@ -2,6 +2,7 @@
 <h4 align="center">Problem Solver Using C++ & MERN Stack Developer</h4>
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raihanhabibakash&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -44,7 +45,7 @@
 
 #### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,sass,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,sass,bootstrap,nextjs" />
 </p>
 
 #### 🛠 Backend
@@ -59,7 +60,7 @@
 
 #### 🎨 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,postman" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,postman,git,github,linux,vscode" />
 </p>
 
 ---
