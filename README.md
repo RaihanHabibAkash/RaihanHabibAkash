@@ -42,6 +42,8 @@
 <a href="https://www.leetcode.com/raihanhabibakash"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" /></a>
 <a href="https://www.codechef.com/users/raihan_akash"><img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef" /></a>
 <a href="https://www.hackerrank.com/profile/raihanakash20031"><img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank" /></a>
+<a href="https://lightoj.com/user/raihan_akash"><img src="https://img.shields.io/badge/LightOJ-Profile-red?style=for-the-badge" /></a>
+<a href="https://www.naukri.com/code360/profile/8cf98487-17ef-43ba-a09a-7fbeba58d15a"><img src="https://img.shields.io/badge/Code360-Profile-purple?style=for-the-badge" /></a>
 </p>
 
 ---
