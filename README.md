@@ -73,6 +73,12 @@
 #### 🎨 Tools
 <p>
 <img src="https://skillicons.dev/icons?i=photoshop,postman,git,github,linux,vscode" />
+  <img 
+    src="https://cdn.simpleicons.org/cloudinary/3448C5" 
+    alt="Cloudinary" 
+    width="48" 
+    height="48"
+  />
 </p>
 
 ---
