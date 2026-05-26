@@ -72,7 +72,7 @@
 
 #### 🎨 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,postman,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=photoshop,postman,git,github,linux,vscode" />
 </p>
 
 ---
