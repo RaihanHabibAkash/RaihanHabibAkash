@@ -66,8 +66,18 @@
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase,aws" />
 <img src="https://cdn.simpleicons.org/clerk/6C47FF" width="48" height="48" alt="Clerk"/>
-<img src="https://cdn.simpleicons.org/jsonwebtokens/white" width="48" height="48" alt="JWT"/>
-<img src="https://cdn.simpleicons.org/socketdotio/white" width="48" height="48" alt="Socket.io"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://cdn.simpleicons.org/jsonwebtokens/white">
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" alt="JWT">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://cdn.simpleicons.org/socketdotio/white">
+  <img src="https://cdn.simpleicons.org/socketdotio/000000" width="48" alt="Socket.io">
+</picture>
+
 
 #### 🗄 Database
 <p>
@@ -76,13 +86,8 @@
 
 #### 🎨 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=photoshop,postman,git,github,linux,vscode" />
-  <img 
-    src="https://cdn.simpleicons.org/cloudinary/3448C5" 
-    alt="Cloudinary" 
-    width="48" 
-    height="48"
-  />
+<img src="https://skillicons.dev/icons?i=photoshop,postman,git,github,linux,vscode,docker" />
+<img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" width="48" height="48"/>
 </p>
 
 ---
