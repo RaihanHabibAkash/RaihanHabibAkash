@@ -64,7 +64,7 @@
 
 #### 🛠 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase,aws" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase" />
 <img src="https://cdn.simpleicons.org/clerk/6C47FF" width="48" height="48" alt="Clerk"/>
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -86,7 +86,7 @@
 
 #### 🎨 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=photoshop,postman,git,github,linux,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=photoshop,postman,git,github,linux,vscode,docker,aws" />
 <img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" width="48" height="48"/>
 </p>
 
