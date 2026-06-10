@@ -1,11 +1,9 @@
 <h1 align="center">Assalamualaikum, I'm Raihan Habib Akash</h1>
-<h4 align="center">Problem Solver Using C++ & MERN Stack Developer</h4>
-
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F726&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Django+Backend+Developer;Full+Stack+Web+Developer;Competitive+Programmer;Problem+Solver+%7C+DSA+Enthusiast;OOP+%26+Software+Design+Enthusiast;React+%7C+Next.js+%7C+Express+%7C+Django;Building+Scalable+Web+Applications;Passionate+About+Clean+Code;Always+Learning+New+Technologies" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F726&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Django+Developer;Full+Stack+Web+Developer;Competitive+Programmer;Problem+Solver+%7C+DSA+Enthusiast;OOP+%26+Software+Design+Enthusiast;React+%7C+Next.js+%7C+Express+%7C+Django;Building+Scalable+Web+Applications;Passionate+About+Clean+Code;Always+Learning+New+Technologies;Problem+Solver+Using+Cpp;Backend+Developer" 
       alt="Typing SVG" 
     />
   </a>
