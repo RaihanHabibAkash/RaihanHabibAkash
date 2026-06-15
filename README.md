@@ -42,6 +42,8 @@
 <a href="https://www.hackerrank.com/profile/raihanakash20031"><img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank" /></a>
 <a href="https://lightoj.com/user/raihan_akash"><img src="https://img.shields.io/badge/LightOJ-red?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
 <a href="https://www.naukri.com/code360/profile/8cf98487-17ef-43ba-a09a-7fbeba58d15a"><img src="https://img.shields.io/badge/Code360-purple?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
+<a href="https://atcoder.jp/users/raihanakash"><img src="https://img.shields.io/badge/AtCoder-gray?style=for-the-badge&logo=atcoder&logoColor=white" /></a>
+<a href="https://judge.beecrowd.com/en/profile/1261511"><img src="https://img.shields.io/badge/Beecrowd-green?style=for-the-badge&logo=buffer&logoColor=white" /></a>
 </p>
 
 ---
