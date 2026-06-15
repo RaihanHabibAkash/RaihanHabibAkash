@@ -57,7 +57,7 @@
 
 #### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,sass,bootstrap,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,sass,bootstrap,nextjs,vite" />
 <img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="48" height="48" alt="React Router"/>
 <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" width="48" height="48" alt="Zustand"/>
 </p>
@@ -86,7 +86,7 @@
 
 #### 🎨 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=photoshop,postman,git,github,linux,vscode,docker,aws,vite,ubuntu" />
+<img src="https://skillicons.dev/icons?i=photoshop,postman,git,github,linux,vscode,docker,aws,ubuntu" />
 <img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" width="48" height="48"/>
 </p>
 
