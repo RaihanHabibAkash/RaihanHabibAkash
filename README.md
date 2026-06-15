@@ -105,12 +105,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raihanhabibakash&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanhabibakash&theme=tokyonight&layout=donut&langs_count=10&hide=cmake" />
 </p>
 
 ---
 
+<!--
 ### 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raihanhabibakash&theme=algolia&margin-w=10&margin-h=10" />
 </p>
+-->
