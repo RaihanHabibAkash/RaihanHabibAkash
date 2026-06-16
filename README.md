@@ -44,6 +44,7 @@
 <a href="https://www.naukri.com/code360/profile/8cf98487-17ef-43ba-a09a-7fbeba58d15a"><img src="https://img.shields.io/badge/Code360-purple?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
 <a href="https://atcoder.jp/users/raihanakash"><img src="https://img.shields.io/badge/AtCoder-gray?style=for-the-badge&logo=atcoder&logoColor=white" /></a>
 <a href="https://judge.beecrowd.com/en/profile/1261511"><img src="https://img.shields.io/badge/Beecrowd-green?style=for-the-badge&logo=buffer&logoColor=white" /></a>
+<a href="https://cses.fi/user/436802"><img src="https://img.shields.io/badge/CSES-darkblue?style=for-the-badge&logo=academia&logoColor=white" /></a>
 </p>
 
 ---
