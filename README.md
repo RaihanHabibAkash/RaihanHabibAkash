@@ -57,7 +57,7 @@
 
 #### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,sass,bootstrap,nextjs,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,sass,bootstrap,nextjs" />
 <img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="48" height="48" alt="React Router"/>
 <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" width="48" height="48" alt="Zustand"/>
 </p>
