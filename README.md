@@ -16,7 +16,6 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 Worked on **Spotify Clone**
 - 🌱 Learning **Problem Solving**, **MERN** & **Django**  
 - 💬 Ask me about **Web Development & Logic Building**
 - 📫 Email: **raihanakash2003811@gmail.com**
