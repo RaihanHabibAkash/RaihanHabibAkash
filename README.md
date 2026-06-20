@@ -93,6 +93,16 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://spotify-clone-zoct.onrender.com/">
+    <img src="https://img.shields.io/badge/🎵_Spotify_Clone-Live_Demo-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
