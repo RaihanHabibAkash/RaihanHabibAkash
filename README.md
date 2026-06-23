@@ -46,7 +46,7 @@
 ## ⚙️ Techniques & Concepts
 - BFS
 - DFS
-- Freq Array
+- HEAP
 - Binary Search
 - Sliding Window
 - Two Pointers
