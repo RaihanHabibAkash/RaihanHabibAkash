@@ -46,10 +46,12 @@
 ## ⚙️ Techniques & Concepts
 - BFS
 - DFS
-- HEAP
+- Up Heapify
+- Down Heapify
 - Binary Search
 - Sliding Window
 - Two Pointers
+- Slow Fast Tehcnique
 
 ## 🧠 Problem-Solving Profiles
 
