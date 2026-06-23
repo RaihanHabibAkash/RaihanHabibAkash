@@ -34,17 +34,63 @@
 
 ---
 
-### 🧠 Problem Solving Profiles
+# 🧠 Competitive Programming Profile
+
+## 🚀 Core Skills
+- Data Structures
+- Algorithms
+- Problem Solving
+- Competitive Programming
+- Object-Oriented Programming (OOP)
+
+## ⚙️ Techniques & Concepts
+- BFS
+- DFS
+- Freq Array
+- Binary Search
+- Sliding Window
+- Two Pointers
+
+## 🧠 Problem-Solving Profiles
+
 <p align="center">
-<a href="https://codeforces.com/profile/raihanakash"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces" /></a>
-<a href="https://www.leetcode.com/raihanhabibakash"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
-<a href="https://www.codechef.com/users/raihan_akash"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" /></a>
-<a href="https://www.hackerrank.com/profile/raihanakash20031"><img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank" /></a>
-<a href="https://lightoj.com/user/raihan_akash"><img src="https://img.shields.io/badge/LightOJ-red?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
-<a href="https://www.naukri.com/code360/profile/raihanakash"><img src="https://img.shields.io/badge/Code360-purple?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
-<a href="https://atcoder.jp/users/raihanakash"><img src="https://img.shields.io/badge/AtCoder-gray?style=for-the-badge&logo=atcoder&logoColor=white" /></a>
-<a href="https://judge.beecrowd.com/en/profile/1261511"><img src="https://img.shields.io/badge/Beecrowd-green?style=for-the-badge&logo=buffer&logoColor=white" /></a>
-<a href="https://cses.fi/user/436802"><img src="https://img.shields.io/badge/CSES-darkblue?style=for-the-badge&logo=academia&logoColor=white" /></a>
+
+<a href="https://codeforces.com/profile/raihanakash">
+<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces" />
+</a>
+
+<a href="https://www.leetcode.com/raihanhabibakash">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://www.codechef.com/users/raihan_akash">
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/raihanakash20031">
+<img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank" />
+</a>
+
+<a href="https://atcoder.jp/users/raihanakash">
+<img src="https://img.shields.io/badge/AtCoder-gray?style=for-the-badge&logo=atcoder&logoColor=white" />
+</a>
+
+<a href="https://cses.fi/user/436802">
+<img src="https://img.shields.io/badge/CSES-darkblue?style=for-the-badge&logo=academia&logoColor=white" />
+</a>
+
+<a href="https://lightoj.com/user/raihan_akash">
+<img src="https://img.shields.io/badge/LightOJ-red?style=for-the-badge&logo=bookstack&logoColor=white" />
+</a>
+
+<a href="https://judge.beecrowd.com/en/profile/1261511">
+<img src="https://img.shields.io/badge/Beecrowd-green?style=for-the-badge&logo=buffer&logoColor=white" />
+</a>
+
+<a href="https://www.naukri.com/code360/profile/raihanakash">
+<img src="https://img.shields.io/badge/Code360-purple?style=for-the-badge&logo=codesandbox&logoColor=white" />
+</a>
+
 </p>
 
 ---
