@@ -48,6 +48,7 @@
 - DFS
 - Up Heapify
 - Down Heapify
+- Heap Sort
 - Binary Search
 - Sliding Window
 - Two Pointers
