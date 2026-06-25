@@ -48,10 +48,11 @@
 - DFS
 - Up Heapify
 - Down Heapify
-- Heap Sort
 - Binary Search
 - Sliding Window
 - Two Pointers
+- Prefix sum
+- Frequency array
 - Slow Fast Tehcnique
 
 ## 🧠 Problem-Solving Profiles
