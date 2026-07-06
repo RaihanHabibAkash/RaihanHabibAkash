@@ -16,8 +16,8 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🌱 Learning **Problem Solving**, **MERN** & **Django**  
-- 💬 Ask me about **Web Development & Logic Building**
+- 🌱 Practicing **Problem Solving** and **Competitive Programming** using **C++**
+- 💻 Building **Full-Stack Web Applications** with **MERN** and **Django**
 - 📫 Email: **raihanakash2003811@gmail.com**
 - 🌍 Portfolio: **[raihan-habib-akash.vercel.app](https://raihan-habib-akash.vercel.app/)**
 
@@ -30,44 +30,6 @@
 <a href="https://fb.com/raihan.habib.akash"><img src="https://img.icons8.com/color/48/facebook-new.png" height="48"/></a>
 <a href="https://instagram.com/raihan_habib_akash"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://auth.geeksforgeeks.org/user/raihanakastfzg"><img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="48"/></a>
-</p>
-
----
-
-# 🧠 Competitive Programming Profile
-
-## 🚀 Core Skills
-- Data Structures
-- Algorithms
-- Problem Solving
-- Competitive Programming
-- Object-Oriented Programming (OOP)
-
-## ⚙️ Techniques & Concepts
-- BFS
-- DFS
-- Up Heapify
-- Down Heapify
-- Binary Search
-- Sliding Window
-- Two Pointers
-- Prefix sum
-- Frequency array
-- Slow Fast Tehcnique
-
-## 🧠 Problem-Solving Profiles
-
-<p align="center">
-<a href="https://codeforces.com/profile/raihanakash"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces" /></a>
-<a href="https://www.leetcode.com/raihanhabibakash"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
-<a href="https://www.codechef.com/users/raihan_akash"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" /></a>
-<a href="https://www.naukri.com/code360/profile/raihanakash"><img src="https://img.shields.io/badge/Code360-purple?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
-<a href="https://atcoder.jp/users/raihanakash"> <img src="https://img.shields.io/badge/AtCoder-gray?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
-<a href="https://cses.fi/user/436802"><img src="https://img.shields.io/badge/CSES-darkblue?style=for-the-badge&logo=academia&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/profile/raihanakash20031"><img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank" /></a>
-<a href="https://lightoj.com/user/raihan_akash"><img src="https://img.shields.io/badge/LightOJ-red?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
-<a href="https://toph.co/u/raihanakash2003811"> <img src="https://img.shields.io/badge/Toph-black?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
-<a href="https://judge.beecrowd.com/en/profile/1261511"><img src="https://img.shields.io/badge/Beecrowd-green?style=for-the-badge&logo=buffer&logoColor=white" /></a>
 </p>
 
 ---
@@ -112,6 +74,67 @@
 <p>
 <img src="https://skillicons.dev/icons?i=photoshop,postman,git,github,linux,vscode,docker,aws,ubuntu" />
 <img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" width="48" height="48"/>
+</p>
+
+---
+
+# 🧠 Competitive Programming Profile
+
+## 🚀 Core Skills
+- Data Structures
+- Algorithms
+- Problem Solving
+- Competitive Programming
+- Object-Oriented Programming (OOP)
+
+## 📚 Data Structures
+- Array (1D & 2D)
+- String
+- Linked List
+- Stack
+- Queue
+- Deque
+- Heap
+- Tree
+- Binary Tree
+- Binary Search Tree (BST)
+- Graph
+
+## ⚙️ Techniques & Concepts
+- BFS
+- DFS
+- Up Heapify
+- Down Heapify
+- Binary Search
+- Sliding Window
+- Two Pointers
+- Prefix sum
+- Frequency array
+- Fast & Slow Pointers
+
+## 🛠️ C++ STL
+- Vector
+- List
+- Stack
+- Queue
+- Priority Queue
+- Pair
+- Set
+- Map
+
+## 🧠 Problem-Solving Profiles
+
+<p align="center">
+<a href="https://codeforces.com/profile/raihanakash"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces" /></a>
+<a href="https://www.leetcode.com/raihanhabibakash"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
+<a href="https://www.codechef.com/users/raihan_akash"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" /></a>
+<a href="https://www.naukri.com/code360/profile/raihanakash"><img src="https://img.shields.io/badge/Code360-purple?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
+<a href="https://atcoder.jp/users/raihanakash"> <img src="https://img.shields.io/badge/AtCoder-gray?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+<a href="https://cses.fi/user/436802"><img src="https://img.shields.io/badge/CSES-darkblue?style=for-the-badge&logo=academia&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/raihanakash20031"><img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank" /></a>
+<a href="https://lightoj.com/user/raihan_akash"><img src="https://img.shields.io/badge/LightOJ-red?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
+<a href="https://toph.co/u/raihanakash2003811"> <img src="https://img.shields.io/badge/Toph-black?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
+<a href="https://judge.beecrowd.com/en/profile/1261511"><img src="https://img.shields.io/badge/Beecrowd-green?style=for-the-badge&logo=buffer&logoColor=white" /></a>
 </p>
 
 ---
