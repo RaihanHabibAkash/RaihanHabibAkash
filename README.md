@@ -157,7 +157,7 @@
 
 ---
 
-### 📈 Extra Stats (Replace Empty Sections)
+### 📈 Extra Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihanhabibakash&theme=tokyonight" />
