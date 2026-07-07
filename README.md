@@ -101,6 +101,7 @@
 - Graph
 
 ## ⚙️ Techniques & Concepts
+- Dijkstra
 - BFS
 - DFS
 - Up Heapify
