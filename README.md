@@ -111,7 +111,7 @@
 - Two Pointers
 - Prefix sum
 - Frequency array
-- Tortoise and Hare Pointer
+- Tortoise and Hare Pointers (Fast & Slow Pointers)
 
 ## 🛠️ C++ STL
 - Vector
