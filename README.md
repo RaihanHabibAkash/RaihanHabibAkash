@@ -11,10 +11,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raihanhabibakash&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ### 👨‍💻 About Me
 - 🌱 Practicing **Problem Solving** and **Competitive Programming** using **C++**
 - 💻 Building **Full-Stack Web Applications** with **MERN** and **Django**
@@ -111,7 +107,7 @@
 - Two Pointers
 - Prefix sum
 - Frequency array
-- Tortoise and Hare Pointers (Fast & Slow Pointers)
+- Tortoise and Hare Pointers (Slow & Fast Pointers)
 
 ## 🛠️ C++ STL
 - Vector
