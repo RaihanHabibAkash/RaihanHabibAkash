@@ -104,10 +104,11 @@
 - Down Heapify
 - Binary Search
 - Sliding Window
+- 2D Grid Traversal
 - Two Pointers
-- Prefix sum
-- Frequency array
-- Tortoise and Hare Pointers (Slow & Fast Pointers)
+- Prefix Sum
+- Frequency Array
+- Tortoise & Hare Technique (Slow & Fast Pointers)
 
 ## 🛠️ C++ STL
 - Vector
