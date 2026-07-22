@@ -122,8 +122,8 @@
 ## 🧠 Problem-Solving Profiles
 
 <p align="center">
-<a href="https://codeforces.com/profile/raihanakash"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces" /></a>
 <a href="https://www.leetcode.com/raihanhabibakash"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
+<a href="https://codeforces.com/profile/raihanakash"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces" /></a>
 <a href="https://www.codechef.com/users/raihan_akash"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" /></a>
 <a href="https://www.naukri.com/code360/profile/raihanakash"><img src="https://img.shields.io/badge/Code360-purple?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
 <a href="https://atcoder.jp/users/raihanakash"> <img src="https://img.shields.io/badge/AtCoder-gray?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
