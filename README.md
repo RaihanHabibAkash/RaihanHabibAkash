@@ -97,7 +97,6 @@
 - Graph (2D Grid)
 
 ## ⚙️ Techniques & Concepts
-- Dijkstra
 - BFS
 - DFS
 - Up Heapify
@@ -108,6 +107,9 @@
 - Prefix Sum
 - Frequency Array
 - Tortoise & Hare Technique (Slow & Fast Pointers)
+- Cycle Detection in Undirected Graph (BFS & DFS)
+- Cycle Detection in Directed Graph (DFS)
+- Dijkstra's Shortest Path Algorithm
 
 ## 🛠️ C++ STL
 - Vector
