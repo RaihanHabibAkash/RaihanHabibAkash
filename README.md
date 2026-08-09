@@ -109,7 +109,7 @@
 - Tortoise & Hare Technique (Slow & Fast Pointers)
 - Cycle Detection in Undirected Graph (BFS & DFS)
 - Cycle Detection in Directed Graph (DFS)
-- Dijkstra's Shortest Path Algorithm
+- Dijkstra
 
 ## 🛠️ C++ STL
 - Vector
