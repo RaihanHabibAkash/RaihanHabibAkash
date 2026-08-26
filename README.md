@@ -106,6 +106,7 @@
 - Prefix Sum
 - Frequency Array
 - Tortoise & Hare Technique (Slow & Fast Pointers)
+- Cycle Detection in Linked List
 - Cycle Detection in Undirected Graph (BFS & DFS)
 - Cycle Detection in Directed Graph (DFS)
 - Dijkstra
