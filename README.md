@@ -81,6 +81,8 @@
 - Problem Solving
 - Competitive Programming
 - Object-Oriented Programming (OOP)
+- MERN Stack
+- Django & Django REST Framework
 
 ## 📚 Data Structures
 - Array (1D & 2D)
@@ -93,24 +95,31 @@
 - Tree
 - Binary Tree
 - Binary Search Tree (BST)
-- Graph (2D Grid)
+- Graph
+- Grid-based Graphs (2D)
 
-## ⚙️ Techniques & Concepts
+## ⚙️ Algorithms
 - BFS
 - DFS
+- Tortoise & Hare Technique (Slow & Fast Pointers)
+- Binary Search
+- Dijkstra
+- Bellman–Ford
+
+## ⚙️ Techniques & Concepts
 - Up Heapify
 - Down Heapify
-- Binary Search
+- Recursion
 - Sliding Window
 - Two Pointers
 - Prefix Sum
 - Frequency Array
-- Tortoise & Hare Technique (Slow & Fast Pointers)
 - Cycle Detection in Linked List
 - Cycle Detection in Undirected Graph (BFS & DFS)
 - Cycle Detection in Directed Graph (DFS)
-- Dijkstra
-- Bellman–Ford
+- Number Theory
+- GCD & LCM
+- Prime Factorization
 
 ## 🛠️ C++ STL
 - Vector
@@ -119,6 +128,7 @@
 - Queue
 - Priority Queue
 - Pair
+- Tuple
 - Set
 - Map
 
