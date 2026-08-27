@@ -105,6 +105,7 @@
 - Binary Search
 - Dijkstra
 - Bellman–Ford
+- Floyd-Warshall
 
 ## ⚙️ Techniques & Concepts
 - Up Heapify
