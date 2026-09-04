@@ -106,6 +106,7 @@
 - Dijkstra
 - Bellman–Ford
 - Floyd-Warshall
+- DSU (Disjoint Set Union)
 
 ## ⚙️ Techniques & Concepts
 - Up Heapify
@@ -116,7 +117,7 @@
 - Prefix Sum
 - Frequency Array
 - Cycle Detection in Linked List
-- Cycle Detection in Undirected Graph (BFS & DFS)
+- Cycle Detection in Undirected Graph (BFS, DFS, DSU)
 - Cycle Detection in Directed Graph (DFS)
 - Number Theory
 - GCD & LCM
