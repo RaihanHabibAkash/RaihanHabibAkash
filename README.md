@@ -97,6 +97,8 @@
 - Binary Search Tree (BST)
 - Graph
 - Grid-based Graphs (2D)
+- DSU (Disjoint Set Union)
+
 
 ## ⚙️ Algorithms
 - BFS
@@ -106,7 +108,6 @@
 - Dijkstra
 - Bellman–Ford
 - Floyd-Warshall
-- DSU (Disjoint Set Union)
 
 ## ⚙️ Techniques & Concepts
 - Up Heapify
