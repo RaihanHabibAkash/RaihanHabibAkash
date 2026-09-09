@@ -102,7 +102,7 @@
 - Binary Search Tree (BST)
 - Graph
 - Grid-based Graphs (2D)
-- DSU (Disjoint Set Union)
+- Disjoint Set Union (DSU)
 
 ### ⚙️ Algorithms
 - BFS
