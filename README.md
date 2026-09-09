@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F726&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Django+Developer;Full+Stack+Web+Developer;Competitive+Programmer;Problem+Solver+%7C+DSA+Enthusiast;OOP+%26+Software+Design+Enthusiast;React+%7C+Next.js+%7C+Express+%7C+Django;Building+Scalable+Web+Applications;Passionate+About+Clean+Code;Always+Learning+New+Technologies;Problem+Solver+Using+Cpp;Backend+Developer" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F726&center=true&vCenter=true&width=700&lines=Software+Engineer;Competitive+Programmer+Using+C%2B%2B;AI+%26+Machine+Learning+Learner;DSA+%7C+OOP+%7C+DBMS;MERN+Stack+Developer;Django+Developer;Software+Design+Enthusiast;React+%7C+Next.js+%7C+Express+%7C+Django;Passionate+About+Clean+Code;Always+Learning+New+Technologies" 
       alt="Typing SVG" 
     />
   </a>
@@ -14,6 +14,7 @@
 ### 👨‍💻 About Me
 - 🌱 Practicing **Problem Solving** and **Competitive Programming** using **C++**
 - 💻 Building **Full-Stack Web Applications** with **MERN** and **Django**
+- 🤖 Currently learning AI & Machine Learning
 - 📫 Email: **raihanakash2003811@gmail.com**
 - 🌍 Portfolio: **[raihan-habib-akash.vercel.app](https://raihan-habib-akash.vercel.app/)**
 
@@ -72,6 +73,9 @@
 </p>
 
 ---
+
+### 🤖 AI & Machine Learning
+- Python
 
 # 🧠 Competitive Programming Profile
 
