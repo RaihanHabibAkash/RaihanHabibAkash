@@ -87,8 +87,7 @@
 - Problem Solving
 - Competitive Programming
 - Object-Oriented Programming (OOP)
-- MERN Stack
-- Django & Django REST Framework
+- Database Management Systems (DBMS)
 
 ### 📚 Data Structures
 - Array (1D & 2D)
