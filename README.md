@@ -30,7 +30,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+# ⚙️ Tech Stack
 
 #### 🧩 Languages
 <p>
@@ -74,8 +74,10 @@
 
 ---
 
-### 🤖 AI & Machine Learning
+# 🤖 AI & Machine Learning
 - Python
+
+---
 
 # 🧠 Competitive Programming Profile
 
@@ -102,7 +104,6 @@
 - Graph
 - Grid-based Graphs (2D)
 - DSU (Disjoint Set Union)
-
 
 ## ⚙️ Algorithms
 - BFS
