@@ -130,17 +130,6 @@
 - GCD & LCM
 - Prime Factorization
 
-### 🛠️ C++ STL
-- Vector
-- List
-- Stack
-- Queue
-- Priority Queue
-- Pair
-- Tuple
-- Set
-- Map
-
 ## 🧠 Problem-Solving Profiles
 
 <p align="center">
@@ -160,7 +149,7 @@
 
 ---
 
-#🚀 Featured Projects
+# 🚀 Featured Projects
 
 <p align="center">
   <a href="https://spotify-clone-zoct.onrender.com/">
