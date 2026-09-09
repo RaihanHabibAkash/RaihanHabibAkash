@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 - 🌱 Practicing **Problem Solving** and **Competitive Programming** using **C++**
 - 💻 Building **Full-Stack Web Applications** with **MERN** and **Django**
 - 🤖 Currently learning AI & Machine Learning
@@ -20,7 +20,7 @@
 
 ---
 
-### 🌐 Connect With Me
+# 🌐 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/raihan-akash-136a74310"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://stackoverflow.com/users/30118933/raihan-akash"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
