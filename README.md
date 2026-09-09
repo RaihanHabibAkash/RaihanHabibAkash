@@ -81,7 +81,7 @@
 
 # 🧠 Competitive Programming Profile
 
-## 🚀 Core Skills
+### 🚀 Core Skills
 - Data Structures
 - Algorithms
 - Problem Solving
@@ -90,7 +90,7 @@
 - MERN Stack
 - Django & Django REST Framework
 
-## 📚 Data Structures
+### 📚 Data Structures
 - Array (1D & 2D)
 - String
 - Linked List
@@ -105,7 +105,7 @@
 - Grid-based Graphs (2D)
 - DSU (Disjoint Set Union)
 
-## ⚙️ Algorithms
+### ⚙️ Algorithms
 - BFS
 - DFS
 - Tortoise & Hare Technique (Slow & Fast Pointers)
@@ -113,8 +113,9 @@
 - Dijkstra
 - Bellman–Ford
 - Floyd-Warshall
+- Dynamic Programming (Top-Down & Bottom-Up)
 
-## ⚙️ Techniques & Concepts
+### ⚙️ Techniques & Concepts
 - Up Heapify
 - Down Heapify
 - Recursion
@@ -129,7 +130,7 @@
 - GCD & LCM
 - Prime Factorization
 
-## 🛠️ C++ STL
+### 🛠️ C++ STL
 - Vector
 - List
 - Stack
@@ -159,7 +160,7 @@
 
 ---
 
-### 🚀 Featured Projects
+#🚀 Featured Projects
 
 <p align="center">
   <a href="https://spotify-clone-zoct.onrender.com/">
@@ -169,7 +170,7 @@
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihanhabibakash&theme=tokyonight" />
@@ -177,7 +178,7 @@
 
 ---
 
-### 📈 Extra Stats
+# 📈 Extra Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihanhabibakash&theme=tokyonight" />
