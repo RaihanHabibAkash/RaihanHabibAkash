@@ -113,6 +113,7 @@
 - Bellman–Ford
 - Floyd-Warshall
 - Dynamic Programming (Top-Down & Bottom-Up)
+- 0/1 Knapsack
 
 ### ⚙️ Techniques & Concepts
 - Up Heapify
