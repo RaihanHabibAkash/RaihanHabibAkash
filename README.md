@@ -114,6 +114,9 @@
 - Floyd-Warshall
 - Dynamic Programming (Memoization, Tabulation)
 - 0/1 Knapsack
+- Subset Sum
+- Equal Partition Sum
+- Unbounded Knapsack
 
 ### ⚙️ Techniques & Concepts
 - Up Heapify
