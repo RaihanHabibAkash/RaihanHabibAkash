@@ -112,7 +112,7 @@
 - Dijkstra
 - Bellman–Ford
 - Floyd-Warshall
-- Dynamic Programming (Top-Down & Bottom-Up)
+- Dynamic Programming (Memoization, Tabulation)
 - 0/1 Knapsack
 
 ### ⚙️ Techniques & Concepts
