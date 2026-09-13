@@ -133,6 +133,8 @@
 - Unbounded Knapsack
 - Merge Sort
 - Heap Sort
+- Longest Common Subsequence (LCS)
+- Kruskal's Algorithm (Minimum Spanning Tree(MST))
 
 ### 🧩 Algorithmic Paradigms & Techniques
 - Up Heapify
