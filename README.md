@@ -107,20 +107,22 @@
 ### ⚙️ Algorithms
 - BFS
 - DFS
-- Tortoise & Hare Technique (Slow & Fast Pointers)
 - Binary Search
 - Dijkstra
 - Bellman–Ford
 - Floyd-Warshall
-- Dynamic Programming (Memoization, Tabulation)
 - 0/1 Knapsack
 - Subset Sum
 - Equal Partition Sum
 - Unbounded Knapsack
+- Merge Sort
+- Heap Sort
 
-### ⚙️ Techniques & Concepts
+### 🧩 Algorithmic Paradigms & Techniques
 - Up Heapify
 - Down Heapify
+- Dynamic Programming (Memoization, Tabulation)
+- Divide & Conquer
 - Recursion
 - Sliding Window
 - Two Pointers
@@ -129,6 +131,9 @@
 - Cycle Detection in Linked List
 - Cycle Detection in Undirected Graph (BFS, DFS, DSU)
 - Cycle Detection in Directed Graph (DFS)
+- Tortoise & Hare Technique (Slow & Fast Pointers)
+
+#### 🧮 Mathematical Techniques
 - Number Theory
 - GCD & LCM
 - Prime Factorization
