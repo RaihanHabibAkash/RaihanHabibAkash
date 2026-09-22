@@ -134,12 +134,12 @@
 - Merge Sort
 - Heap Sort
 - Longest Common Subsequence (LCS)
-- Kruskal's Algorithm (Minimum Spanning Tree(MST))
+- Kruskal's (Minimum Spanning Tree (MST) )
 
 ### 🧩 Algorithmic Paradigms & Techniques
 - Up Heapify
 - Down Heapify
-- Dynamic Programming (Memoization, Tabulation)
+- Dynamic Programming (Memoization & Tabulation)
 - Divide & Conquer
 - Recursion
 - Sliding Window
@@ -147,7 +147,7 @@
 - Prefix Sum
 - Frequency Array
 - Cycle Detection in Linked List
-- Cycle Detection in Undirected Graph (BFS, DFS, DSU)
+- Cycle Detection in Undirected Graph (BFS, DFS & DSU)
 - Cycle Detection in Directed Graph (DFS)
 - Tortoise & Hare Technique (Slow & Fast Pointers)
 
