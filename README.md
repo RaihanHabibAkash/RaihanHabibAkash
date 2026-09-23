@@ -183,7 +183,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-foqj.onrender.com/api/top-langs/?username=raihanhabibakash&theme=tokyonight&layout=donut&langs_count=10&hide=cmake" />
+  <img src="https://github-readme-stats-foqj.onrender.com/api/top-langs/?username=raihanhabibakash&theme=tokyonight&layout=donut&langs_count=14&hide=cmake" />
 </p>
 
 ---
