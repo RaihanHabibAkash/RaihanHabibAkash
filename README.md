@@ -68,8 +68,10 @@
 
 #### 🎨 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=photoshop,postman,git,github,linux,vscode,docker,aws,ubuntu" />
+<img src="https://skillicons.dev/icons?i=photoshop,postman,git,github,linux,vscode,docker,aws,ubuntu"/>
 <img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/anaconda/44A833" alt="Anaconda" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" width="48" height="48"/>
 </p>
 
 ---
