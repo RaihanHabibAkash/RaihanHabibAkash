@@ -60,24 +60,24 @@
   <img src="https://cdn.simpleicons.org/socketdotio/000000" width="48" alt="Socket.io">
 </picture>
 
-
 #### 🗄 Database
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+#### 🤖 AI / ML
+<p>
+<img src="https://cdn.simpleicons.org/anaconda/44A833" alt="Anaconda" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy"/>
 </p>
 
 #### 🎨 Tools
 <p>
 <img src="https://skillicons.dev/icons?i=photoshop,postman,git,github,linux,vscode,docker,aws,ubuntu"/>
 <img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" width="48" height="48"/>
-<img src="https://cdn.simpleicons.org/anaconda/44A833" alt="Anaconda" width="48" height="48"/>
-<img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" width="48" height="48"/>
 </p>
-
----
-
-# 🤖 AI & Machine Learning
-- Python
 
 ---
 
