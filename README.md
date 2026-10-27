@@ -85,6 +85,7 @@
 
 ## 🧠 Problem-Solving Profiles
 <p align="center">
+<a href="https://www.deep-ml.com/profile/XDoqRTUwg5eqs5aRxvJrRcvBxwj2"><img src="https://img.shields.io/badge/Deep--ML-6366f1?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
 <a href="https://www.leetcode.com/raihanhabibakash"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
 <a href="https://codeforces.com/profile/raihanakash"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces" /></a>
 <a href="https://www.codechef.com/users/raihan_akash"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" /></a>
