@@ -12,7 +12,7 @@
 ---
 
 # 👨‍💻 About Me
-- 🌱 Practicing **Problem Solving** and **Competitive Programming** using **C++**
+- 🌱 **Problem Solving** and **Competitive Programming** using **C++**
 - 💻 Building **Full-Stack Web Applications** with **MERN** and **Django**
 - 🤖 Currently learning AI & Machine Learning
 - 📫 Email: **raihanakash2003811@gmail.com**
@@ -71,6 +71,7 @@
 <img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" width="48" height="48"/>
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
 <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas"/>
 </p>
 
 #### 🎨 Tools
