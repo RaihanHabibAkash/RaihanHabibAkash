@@ -72,6 +72,9 @@
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
 <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
+<img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/seaborn/icon.svg" width="48" height="48" alt="Seaborn"/>
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" alt="Plotly"/>
 </p>
 
 #### 🎨 Tools
