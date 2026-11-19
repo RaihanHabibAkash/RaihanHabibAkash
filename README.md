@@ -113,7 +113,7 @@
 - Database Management Systems (DBMS)
 - Ai/Ml
 
-### 📊 Data Analysis & Visualization
+### 🤖 AI / ML Topics
 - Exploratory Data Analysis (EDA)
   - Univariate Analysis
   - Bivariate Analysis
