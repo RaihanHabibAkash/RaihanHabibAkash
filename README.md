@@ -14,7 +14,7 @@
 # 👨‍💻 About Me
 - 🌱 **Problem Solving** and **Competitive Programming** using **C++**
 - 💻 Building **Full-Stack Web Applications** with **MERN** and **Django**
-- 🤖 Currently learning AI & Machine Learning
+- 🤖 Exploring AI & Machine Learning, currently practicing EDA and Data Analysis
 - 📫 Email: **raihanakash2003811@gmail.com**
 - 🌍 Portfolio: **[raihan-habib-akash.vercel.app](https://raihan-habib-akash.vercel.app/)**
 
@@ -111,6 +111,13 @@
 - Competitive Programming
 - Object-Oriented Programming (OOP)
 - Database Management Systems (DBMS)
+- Ai/Ml
+
+### 📊 Data Analysis & Visualization
+- Exploratory Data Analysis (EDA)
+  - Univariate Analysis
+  - Bivariate Analysis
+  - Multivariate Analysis
 
 ### 📚 Data Structures
 - Array (1D & 2D)
