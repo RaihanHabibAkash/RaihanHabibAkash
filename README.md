@@ -197,7 +197,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-foqj.onrender.com/api/top-langs/?username=raihanhabibakash&theme=tokyonight&layout=donut&langs_count=14&hide=cmake%2Cjupyter%20notebook" />
+  <img src="https://github-readme-stats-foqj.onrender.com/api/top-langs/?username=raihanhabibakash&theme=tokyonight&layout=donut&langs_count=14&hide=cmake%2Cjupyter%20notebook&v=2" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats-foqj.onrender.com/api/top-langs/?username=raihanhabibakash&theme=tokyonight&layout=donut&langs_count=14&hide=cmake%2Cjupyter%20notebook" />
+</p> -->
 
 ---
